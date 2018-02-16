@@ -1,0 +1,4 @@
+c:\users\ludycom\documents\visual studio 2010\Projects\NumerosPerdidos\NumerosPerdidos\bin\Debug\NumerosPerdidos.exe
+c:\users\ludycom\documents\visual studio 2010\Projects\NumerosPerdidos\NumerosPerdidos\bin\Debug\NumerosPerdidos.pdb
+c:\users\ludycom\documents\visual studio 2010\Projects\NumerosPerdidos\NumerosPerdidos\obj\x86\Debug\NumerosPerdidos.exe
+c:\users\ludycom\documents\visual studio 2010\Projects\NumerosPerdidos\NumerosPerdidos\obj\x86\Debug\NumerosPerdidos.pdb
